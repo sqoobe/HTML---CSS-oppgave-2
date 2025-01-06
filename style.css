@@ -17,7 +17,7 @@ body{
 .orange-box{
     display: flex;
     flex-direction: column;
-    height: 500px;
+    height: 490px;
     background-color: hsl(31, 77%, 52%);
     padding-inline: 3em;
     padding-top: 3em;
@@ -28,7 +28,7 @@ body{
 .cyan-box{
     display: flex;
     flex-direction: column;
-    height: 500px;
+    height: 490px;
     background-color: hsl(184, 100%, 22%);
     padding-inline: 3em;
     padding-top: 3em;
@@ -36,7 +36,7 @@ body{
 .darkcyan-box{
     display: flex;
     flex-direction: column;
-    height: 500px;
+    height: 490px;
     background-color: hsl(179, 100%, 13%);
     padding-inline: 3em;
     padding-top: 3em;
@@ -71,12 +71,12 @@ img{
 button{
     background-color: hsl(0, 0%, 95%);
     width: 150px;
-    height: 50px;
+    height: 48px;
     border: none;
     font-family: 'Lexend Deca', sans-serif;
     font-weight: 400;
     border-radius: 25px;
-    padding-left: 8px;
+    /* padding-left: 0px; */
 }
 
 #btn-1{
